@@ -4,17 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Stephen Putnal
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This Javascript excercise was focused on learning how to create a more in depth 
+program. The program is a Tax Calculator with recursive math formulas and 
+functionality.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
