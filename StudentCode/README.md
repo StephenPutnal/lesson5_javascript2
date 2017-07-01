@@ -15,7 +15,9 @@ program. The program is a Tax Calculator with recursive math formulas and
 functionality.
 
 ### View Project:
+https://stephenputnal.github.io/lesson5_javascript2/
 
+I have not figured out how to get this link to work. It's showing an error message when I click on the link.
 
 ### Lessons Learned in the Assignment:
 1. The main lesson was on how to create a tax calculator with a switch LIKE set up of if, else if statements.
